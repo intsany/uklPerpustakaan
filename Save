@@ -1,0 +1,40 @@
+// Scanner input = new Scanner(System.in);
+
+//         boolean stay = true;
+//         String key;
+
+//         ListBuku listBuku = new ListBuku();
+//         ListSiswa listSiswa = new ListSiswa();
+
+//         Buku selectedBuku = null;
+
+//         while (stay){
+//             System.out.println("Selamat datang di Perpustakaan");
+//             System.out.println("1. Daftar Siswa");
+//             System.out.println("2. Daftar Buku");
+//             System.out.println("3. Melakukan peminjaman / pengembalian buku");
+//             System.out.print("Pilih menu: ");
+
+//             int menu = input.nextInt();
+
+//             if (menu == 1){
+//                 System.out.println("=====================");
+//                 System.out.println("=====================\n");
+
+//                 listSiswa.viewSiswa();
+
+//                 System.out.println("Press any key to enter");
+//                 key = input.next();
+//             } else if (menu == 2){
+//                 System.out.println("======================");
+//                 System.out.println("======================\n");
+
+//                 listBuku.viewBuku();
+
+//                 System.out.println();
+
+//             }
+//         }
+
+//     }
+// }
